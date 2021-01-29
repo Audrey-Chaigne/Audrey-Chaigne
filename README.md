@@ -1,4 +1,4 @@
-![Cover](https://github.com/Audrey-Chaigne/Audrey-Chaigne/blob/master/img/cover.jpg)
+![Cover](https://github.com/Audrey-Chaigne/Audrey-Chaigne/blob/master/img/cover2.jpg)
 
 <div border="2em, solid, FOF">
   <h1 align="center"> Bonjour 👋 Bienvenue  </h1>
