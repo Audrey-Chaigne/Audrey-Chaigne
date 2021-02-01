@@ -8,8 +8,8 @@
 </p>
 
 
-Je m'appelle Audrey et je suis développeuse web, plutot orienté back-end. </br>
-Vous trouverez ici certains de mes projets... N'hésitez pas vous asseoir confortablement avec un bon café ☕ et à jeter un coup d'oeil 😉.
+Je m'appelle Audrey et je suis développeuse web, plutôt orientée back-end. </br>
+Vous trouverez ici certains de mes projets... N'hésitez pas à vous asseoir confortablement avec un bon café ☕ et à jeter un coup d'oeil 😉.
 
 ### Mes Skills : 
 HTML5/CSS3</br>
